@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SysMonitor</string>
+    <string name="channel_name">Monitor Service</string>
+    <string name="channel_description">Shows overlay status</string>
+</resources>
