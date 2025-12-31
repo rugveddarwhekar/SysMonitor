@@ -9,7 +9,7 @@
 
 > **Core Philosophy:** Observability should not come at the cost of performance. SysMonitor uses raw system callbacks and direct WindowManager integration to ensure negligible runtime overhead.
 
-<img src="screenshots/Screenshot_20251230_191400.png" width="300" alt="SysMonitor Overlay Preview" />]
+<img src="screenshots/Screenshot_20251230_191400.png" width="300" alt="SysMonitor Overlay Preview" />
 
 ---
 
