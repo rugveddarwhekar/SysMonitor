@@ -29,7 +29,7 @@ graph TD
 
     subgraph App_Space [SysMonitor SDK]
         Client[Client App] -->|Starts| Service[MonitorService]
-        Service -->|Attaches View| Overlay[OverlayView (TextView)]
+        Service -->|Attaches View| Overlay["OverlayView (TextView)"]
         
         Logic{Frame Loop}
         
@@ -136,7 +136,7 @@ flowchart LR
 
     subgraph Edge_Inference_Core
         Norm[Normalizer]
-        TFLite[TFLite Model\n(Quantized)]
+        TFLite["TFLite Model\n(Quantized)"]
         Analyze[Anomaly Classifier]
     end
 
